@@ -10,7 +10,8 @@
   <br>
 
 </div>
-# AI Video Editing
+
+## AI Video Editing
 
 These scripts are used to remove objects in videos. Run in them in sequence and checkout the video below from my youtube channel to see how they work.
 
