@@ -3,7 +3,7 @@
     <a align="center" href="" target="_blank">
       <img
         width="850"
-        src="URL OF BANNER ART FOR CHANNEL"
+        src="https://raw.githubusercontent.com/g-make-it/holding_images/main/banner_for_g_program_it.jpg"
       >
     </a>
   </p>
@@ -30,7 +30,7 @@ These scripts are used to remove objects in videos. Run in them in sequence and 
 
 <p align="center">
     <a href="https://youtu.be/VUA8uE51z1s">
-        <img src="URL of image" alt="AI Video Editing">
+        <img src="https://raw.githubusercontent.com/g-make-it/holding_images/main/largest_thumbnail.png" alt="AI Video Editing">
     </a>
 </p>
 
