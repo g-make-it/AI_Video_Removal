@@ -41,8 +41,7 @@ locally, below you will find instructions on how to do it. Remember don't instal
 
 ```console
 # clone repository and navigate to root directory
-git clone git@github.com:roboflow-ai/notebooks.git
-cd notebooks
+git clone https://github.com/g-make-it/AI_Video_Removal.git
 
 # setup python environment and activate it
 python3 -m venv venv
